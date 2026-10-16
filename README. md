@@ -1,0 +1,65 @@
+# Sentiment Analysis Tool Using Python
+
+## Project Overview
+The Sentiment Analysis Tool is a Python-based machine learning project that classifies text reviews as positive or negative using the Naive Bayes classification algorithm.
+
+## Objectives
+- Understand basic Natural Language Processing (NLP).
+- Clean and preprocess text data.
+- Train a Naive Bayes classifier.
+- Predict sentiment from text reviews.
+- Evaluate performance using accuracy and F1 score.
+
+## Features
+- Text preprocessing using Python.
+- Positive and negative sentiment classification.
+- Naive Bayes classification algorithm.
+- Model evaluation using accuracy and F1 score.
+- Sample review predictions.
+
+## Technologies Used
+- Python
+- Regular Expressions
+- Naive Bayes Algorithm
+- NLP Concepts
+
+## Project Files
+- `main.py` - Main Python program.
+- `README.md` - Project documentation.
+- `requirements.txt` - Dependency information.
+
+## How to Run
+1. Install Python 3.
+2. Download or clone this repository.
+3. Open a terminal in the project folder.
+4. Run the following command:
+
+   `python main.py`
+
+## Sample Predictions
+
+Input: I love this product  
+Output: POSITIVE
+
+Input: This is terrible  
+Output: NEGATIVE
+
+## Model Evaluation
+The program calculates:
+- Accuracy
+- F1 Score
+
+The dataset is small and intended for educational demonstration. Its evaluation results should not be treated as real-world model performance.
+
+## Future Scope
+- Use a larger labelled dataset.
+- Improve text preprocessing.
+- Support neutral sentiment.
+- Build a web interface.
+- Analyse customer reviews and social media text.
+
+## Author
+G. Jessy Jeevana
+
+## Internship
+SYNTECXHUB
